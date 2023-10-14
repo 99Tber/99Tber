@@ -9,7 +9,7 @@ Full-Stack Developer
 * 🌍  I'm based in Marrakech, MOROCCO
 * ✉️  You can contact me at [mohamedredatber1@gmail.com](mailto:mohamedredatber1@gmail.com)
 * 🧠  I'm learning Next js, Kubernetes and Spring Cloud
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="70" alt="Coding" align="right"/>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150" alt="Coding" />
 
 ### Skills
 
